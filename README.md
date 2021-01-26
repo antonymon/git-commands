@@ -11,3 +11,4 @@
 9. git branch                       :   Muestra la rama en la cual estamos trabajando.
 10. git checkout nombre-rama        :   Cambiar a otra rama.
 11. git merge nombre-rama           :   Tomar cambios de rama y funcionar.
+12. git branch -d nombre-rama       :   Eliminar rama.
