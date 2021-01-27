@@ -15,3 +15,4 @@
 13. git remote add origin url-repo  :   Agrega el origen del despliegue. 
 14. git remote rm origin            :   Remover origen de despliege agregado.
 15. git push                        :   Subir cambios al origin establecido (Remoto).
+16. git commit -am "msg"            :   Permite un git add . y git commit a la vez cuando git le esta dando seguimiento al proyecto o archivo.
