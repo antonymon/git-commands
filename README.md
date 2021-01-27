@@ -12,3 +12,6 @@
 10. git checkout nombre-rama        :   Cambiar a otra rama.
 11. git merge nombre-rama           :   Tomar cambios de rama y funcionar.
 12. git branch -d nombre-rama       :   Eliminar rama.
+13. git remote add origin url-repo  :   Agrega el origen del despliegue. 
+14. git remote rm origin            :   Remover origen de despliege agregado.
+15. git push                        :   Subir cambios al origin establecido (Remoto).
